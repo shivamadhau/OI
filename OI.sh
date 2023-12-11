@@ -60,14 +60,9 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		
-${ORANGE}        _      _       _                 
-${ORANGE}       | |    (_)     | |                      
-${ORANGE} _ __  | |__   _  ___ | |__    ___  _ __ 
-${ORANGE}| '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|		
-${ORANGE}| |_) || | | || |\__ \| | | ||  __/| |   	
-${ORANGE}| .__/ |_| |_||_||___/|_| |_| \___||_|   
-${ORANGE}| |       BY SHIVAM ADHAU                               
-${ORANGE}|_|   ${RED}Version : 1.2
+${GREEN}            OI
+${ORANGE}       BY SHIVAM ADHAU                               
+${ORANGE}   ${RED}Version : 1.2
               
 
 ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by SHIVAM_ADHAU ${WHITE}
@@ -77,12 +72,7 @@ EOF
 ## Small Banner
 banner_small() {
 	cat <<- "EOF"
-			                    ,,
-			     __          o-°°|\_____/)
-			(___()'`; phisher \_/|_)     )
-			/,    /`             \  __  / 
-			\\"--\\              (_/ (_/  		
-		
+                       OI
 		Version : 1.23
 	EOF
 }
