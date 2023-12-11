@@ -1,7 +1,7 @@
 git clone https://github.com/shivamadhau/OI
-cd 69phisher
-chmod 777 69phisher.sh
-bash 69phisher.sh
+cd OI
+chmod 777 OI.sh
+bash OI.sh
 
 Dependencies
 php
