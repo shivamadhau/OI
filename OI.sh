@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 
 ##   phisher 	: 	Automated Phishing Tool
 ##   Author 	: 	SHIVAM ADHAU
