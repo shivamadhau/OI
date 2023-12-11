@@ -1,18 +1,5 @@
 #!/bin/bash
-#
-
-##   phisher 	: 	Automated Phishing Tool
-##   Author 	: 	SHIVAM ADHAU
-##   Version 	: 	1.2
-##   Github 	: 	https://github.com/shivamadhau
-## Modified version of :
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.2
-##   Github 	: 	https://github.com/htr-tech  
-
-
-## If you Copy Then Give the credits :)
+##created by shivam adhau
 
 
 
