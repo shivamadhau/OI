@@ -1,5 +1,6 @@
 #!/bin/bash
 ##created by shivam adhau
+##big thanks to Akshay-Arjun
 
 
 
