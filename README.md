@@ -1,4 +1,4 @@
-PROJECT OI 
+PROJECT OI
 
 START DATE:1 AUG 2023
 
@@ -8,7 +8,8 @@ END DATE:(Project needs some advancement so will be working on it)
 
 ## ABOUT TOOL :
 
-OI is a bash based script which is officially made for phish*ng social media accounts with portforwarding. This tool works on Android device and Non-rooted Android device,All types of Linux add on windows
+OI is a bash based script which is officially made for phish*ng social media accounts with portforwarding. This tool works on Android device and Non-rooted Android device,All types of Linux and on windows
+
 
 
 ***WHAT IS PHYSHING ?***
@@ -126,9 +127,16 @@ TANISHKA SHIRBHATE
 
 ANUSHRI GUPTA
 
+## ANNOUNCEMENT :
+As you can see the project still needs some advancement and that will require more peoples to join
 
+I will make it clear you will not get paid for it
 
-AND THANKS NAUGHTY AMERICA
+But it can provide you with a great experience with web development and how the Linux actually operates which can further help you in getting your grasp on Cloud computing and big data analytics
+
+if you are interested contact me on email
+
+shivamadhau@proton.me
 
 
 
