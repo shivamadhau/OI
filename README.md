@@ -112,6 +112,20 @@ bash OI.sh
 
 ***THANKS TO N09ighIp Trojanforge***
 
+## QUESTIONS ASKED :
+
+***what is Termux?****
+
+Termux is a application that allows you to open terminals in your Android devices it is totally safe you can Google it
+
+***Is phishing illegal?***
+
+phishing is one of the most used hacking attack on the Internet.
+If you still have question that if fishing is illegal then it actually depends on you if you got caught then you are a criminal but if you don't then there's no problem
+
+***how can it help in cloud computing?***
+
+If you want to get in cloud computing or cloud engineering you should know that what clouds are really made up of clouds are made up of Linux systems almost 90% of cloud is totally build up with Linux only That is why you will find many people saying that to get in cloud computing you don't need to know any coding
 
 
 
