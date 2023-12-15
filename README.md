@@ -113,19 +113,7 @@ bash OI.sh
 ***THANKS TO N09ighIp Trojanforge***
 
 
-## THANKS TO :
 
-DARSHAN RAJURKAR ,IT,2nd,sipna engg
-
-DISHA GOLHAR ,CSE,4th,sipna engg
-
-PRAJWAL JAKOTIA ,EXTC,4th,sipna engg
-
-KRUSHIKESH MARDIKAR ,IIT Kharagpur
-
-TANISHKA SHIRBHATE
-
-ANUSHRI GUPTA
 
 ## ANNOUNCEMENT :
 As you can see the project still needs some advancement and that will require more peoples to join
