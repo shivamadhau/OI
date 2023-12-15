@@ -134,7 +134,7 @@ I will make it clear you will not get paid for it
 
 But it can provide you with a great experience with web development and how the Linux actually operates which can further help you in getting your grasp on Cloud computing and big data analytics
 
-And I can assure you that he will be mentored by some of the greatest tech addicts
+And I can assure you that you will be mentored by some of the greatest tech addicts
 
 if you are interested contact me on email
 
