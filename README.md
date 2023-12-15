@@ -56,10 +56,10 @@ then open the app and paste The commands given below in the installation section
 - `git`
 ### Features
 
-- Airbnb Phishing created & added #1st on internet.
-- Latest and updated login pages.
-- Mask URL support default and out of it
-- Beginners friendly
+- Airbnb Phishing created & added #1st on internet.                                you know guys i am currently actually
+- Latest and updated login pages.                                                       working on bitcoin web page 
+- Mask URL support default and out of it                                           as requested by some of you it will 
+- Beginners friendly                                                                  get completed till the new year
 - Tunneling options
   - Localhost (visit 127.0.0.1:8080)
   - Cloudflared (default and automated You don't need to worry about it)
