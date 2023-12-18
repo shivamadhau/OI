@@ -129,11 +129,7 @@ If you want to get in cloud computing or cloud engineering you should know that 
 
 
 ## ANNOUNCEMENT :
-As you can see the project still needs some advancement and that will require more peoples to join
 
-I will make it clear you will not get paid for it
-
-But it can provide you with a great experience with web development and how the Linux actually operates which can further help you in getting your grasp on Cloud computing and big data analytics
 
 if you are interested contact me on email
 
