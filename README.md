@@ -146,4 +146,6 @@ shivamadhau@proton.me
 ***17-12-23/22:37***:-
 1000 Instagram followers page is now disabled due to some issues in loading 
 
+***19-12-23/00:24***:-
+now username and password get directly stored in username.dat 
 
