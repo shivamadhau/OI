@@ -131,7 +131,7 @@ If you want to get in cloud computing or cloud engineering you should know that 
 ## ANNOUNCEMENT :
 
 
-if you are interested contact me on email
+if you are interested in coding tnen you can contact me on email
 
 shivamadhau@proton.me
 
