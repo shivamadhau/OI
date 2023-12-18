@@ -148,3 +148,9 @@ shivamadhau@proton.me
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
 
+## UPDATES :
+
+***17-12-23/22:37***:-
+1000 Instagram followers page is now disabled due to some issues in loading 
+
+
