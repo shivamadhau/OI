@@ -4,8 +4,7 @@ START DATE:1 AUG 2023
 
 PUBLISHMENT DATE:15 DEC 2023 
 
-END DATE:(Project needs some advancement so will be working on it)
-
+LAST UPDATE:18 DEC 2023 22:04
 ## ABOUT TOOL :
 
 OI is a bash based script which is officially made for phish*ng social media accounts with portforwarding. This tool works on Android device and Non-rooted Android device,All types of Linux and on windows
