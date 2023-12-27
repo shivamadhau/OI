@@ -134,7 +134,8 @@ if you are interested in coding tnen you can contact me on email
 
 shivamadhau@proton.me
 
-
+## having any issues :
+***please check if the version you are going with is latest**
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
