@@ -101,6 +101,21 @@ bash OI.sh
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
+## ✅ TO UPDATE:
+just copy the below commands and paste in terminal
+```
+cd
+
+rm -rf OI
+
+git clone https://github.com/shivamadhau/OI.git
+
+cd OI
+
+chmod 777 OI.sh
+
+bash OI.sh
+```
 
 ## THANKS TO :
 
