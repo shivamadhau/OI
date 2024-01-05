@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamadhau/OI&label=Views&color=blue&style=plastic" alt="OnlineHacking" /> </p>
+
 PROJECT OI
 
 START DATE:1 AUG 2023
